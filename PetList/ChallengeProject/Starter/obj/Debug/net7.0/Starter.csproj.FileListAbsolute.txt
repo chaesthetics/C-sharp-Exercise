@@ -1,0 +1,14 @@
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.exe
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.deps.json
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.dll
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\bin\Debug\net7.0\Starter.pdb
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.dll
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\refint\Starter.dll
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.pdb
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\starter\obj\Debug\net7.0\ref\Starter.dll

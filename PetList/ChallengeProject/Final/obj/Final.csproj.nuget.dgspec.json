@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj": {}
+    "c:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "C:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj": {
+    "c:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj",
+        "projectUniqueName": "c:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj",
         "projectName": "Final",
-        "projectPath": "C:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj",
+        "projectPath": "c:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\Auriel James\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\obj\\",
+        "outputPath": "c:\\C#\\CsharpProjects\\PetList\\ChallengeProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Auriel James\\AppData\\Roaming\\NuGet\\NuGet.Config"

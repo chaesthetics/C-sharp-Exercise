@@ -1,0 +1,15 @@
+C:\C#\CsharpProjects\Mini-Project\Starter\bin\Debug\net6.0\Starter.exe
+C:\C#\CsharpProjects\Mini-Project\Starter\bin\Debug\net6.0\Starter.deps.json
+C:\C#\CsharpProjects\Mini-Project\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\C#\CsharpProjects\Mini-Project\Starter\bin\Debug\net6.0\Starter.dll
+C:\C#\CsharpProjects\Mini-Project\Starter\bin\Debug\net6.0\Starter.pdb
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.dll
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\refint\Starter.dll
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.pdb
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\ref\Starter.dll
+C:\C#\CsharpProjects\Mini-Project\Starter\obj\Debug\net6.0\Starter.csproj.AssemblyReference.cache

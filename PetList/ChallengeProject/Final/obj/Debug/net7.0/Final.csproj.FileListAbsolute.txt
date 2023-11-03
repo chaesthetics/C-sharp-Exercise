@@ -12,3 +12,17 @@ C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Final\obj
 C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Final\obj\Debug\net7.0\Final.pdb
 C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
 C:\C#\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Final\obj\Debug\net7.0\ref\Final.dll
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\bin\Debug\net7.0\Final.exe
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\bin\Debug\net7.0\Final.deps.json
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\bin\Debug\net7.0\Final.dll
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\bin\Debug\net7.0\Final.pdb
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\Final.dll
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\refint\Final.dll
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\Final.pdb
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+c:\C#\CsharpProjects\PetList\ChallengeProject\Final\obj\Debug\net7.0\ref\Final.dll

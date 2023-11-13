@@ -1,38 +1,33 @@
-try
-{
-    int num1 = int.MaxValue;
-    int num2 = int.MaxValue;
-    int result = num1 + 2;
-    Console.WriteLine("Result: " + result);
+string ipAddress = "255.120.201.0256";
 
-    string str = "Aurieljames";
-    int length = str.Length;
-    Console.WriteLine("String Length: " + length);
+string[] splitted  = ipAddress.Split(".");
+int[] converted = new int[4];
 
-    int[] numbers = new int[5];
-    numbers[5] = 10;
-    Console.WriteLine("Number at index 5: " + numbers[5]);
-
-    int num3 = 10;
-    int num4 = 0;
-    int result2 = num3 / num4;
-    Console.WriteLine("Result: " + result2);
-}
-catch (OverflowException ex)
-{
-    Console.WriteLine("Error: The number is too large to be represented as an integer." + ex.Message);
-}
-catch (NullReferenceException ex)
-{
-    Console.WriteLine("Error: " + ex.Message);
-}
-catch (IndexOutOfRangeException ex)
-{
-    Console.WriteLine("Error: Index out of range." + ex.Message);
-}
-catch (DivideByZeroException ex)
-{
-    Console.WriteLine("Error: Cannot divide by zero." + ex.Message);
+int error = 0; 
+for(int i=0; i<splitted.Length; i++){
+    converted[i] = int.Parse(splitted[i]);
+    Console.WriteLine($"{converted[i]}: {ValidateLength(splitted[i])}: {ValidateRange(splitted[i])}");
+    
+    if(!(ValidateLength(splitted[i]) && ValidateRange(splitted[i]))){
+        error ++;
+    }
 }
 
-Console.WriteLine("Exiting program.");
+if(error != 0){
+    Console.WriteLine($"Invalid IpV4 ({error}) error detected");
+}else{
+    Console.WriteLine("Ip is valid IpV4");
+}
+
+static bool ValidateLength(string value){
+    char[] data = value.ToCharArray();
+    int dataNum = data.Length;
+
+    return (dataNum <5 ? true: false);
+}
+
+static bool ValidateRange(string value){
+    int converted = int.Parse(value);
+   
+   return (converted<256 ? true: false);
+}
